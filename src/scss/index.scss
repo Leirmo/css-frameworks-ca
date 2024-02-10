@@ -1,1 +1,32 @@
+$primary-color: #000;
+$secondary-color: #2b2b2b;
+$font-color: #fff;
+$dott-color: #bec100;
 
+header,
+a {
+  background-color: $secondary-color;
+  color: $font-color;
+}
+
+body {
+  background: $primary-color;
+  color: $font-color;
+  border-color: $dott-color;
+}
+
+.box {
+  background: $secondary-color;
+}
+
+.dott {
+  background: $dott-color;
+  border-radius: 50%;
+  padding: 25px;
+}
+
+.card {
+  background: $secondary-color;
+  color: $font-color;
+  border-color: $dott-color;
+}
