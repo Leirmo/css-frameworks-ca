@@ -8,7 +8,7 @@ This is the world platform that is the results of my css frameworks course assig
 <li>feed/index.html is the mainpage with all the posts.</li>
 <li>profile/index.hmtl is the your profile page that also show you your own posts.</li>
 
-<h2>Bult With.</h2>
+<h2>Built With.</h2>
 <p>html, bootstrap, css, scss.</p>
 
   
